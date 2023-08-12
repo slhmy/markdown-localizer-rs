@@ -22,7 +22,7 @@ cargo install --path .
 
 From crates:
 ```sh
-cargo add md-localizer
+cargo install md-localizer
 ```
 
 ## Example Usage
