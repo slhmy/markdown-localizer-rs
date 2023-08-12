@@ -1,5 +1,5 @@
 [package]
-name = "markdown-localizer-rs"
+name = "md-localizer"
 version = "0.1.0"
 edition = "2021"
 license = "MPL-2.0"

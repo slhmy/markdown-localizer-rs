@@ -23,6 +23,6 @@ cargo install --path .
 ## Example Usage
 
 ```sh
-cd examples
-markdown-localizer-rs localize-image -s example.md
+cd example_dir
+md-localizer localize-image -s example.md
 ```
