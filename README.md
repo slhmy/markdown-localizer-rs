@@ -12,3 +12,17 @@
 When this repo is not ready, the following tools are suggested. 
 1. 👍 [Markdown Image Localizer](https://github.com/TenviLi/markdown-image-localizer)
 2. 😅 Nothing here currently
+
+## Install
+
+From source:
+```sh
+cargo install --path .
+```
+
+## Example Usage
+
+```sh
+cd examples
+markdown-localizer-rs localize-image -s example.md
+```
