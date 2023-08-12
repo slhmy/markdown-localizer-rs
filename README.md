@@ -20,6 +20,11 @@ From source:
 cargo install --path .
 ```
 
+From crates:
+```sh
+cargo add md-localizer
+```
+
 ## Example Usage
 
 ```sh
