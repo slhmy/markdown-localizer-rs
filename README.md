@@ -5,7 +5,7 @@
 🤔 However you might actually want to save your post on github with a static blog repo
 (to make sure you are not going to lose them when blog provider stop their services).
 
-🥰 A Markdown localizer will help you to wipe out these worries. And I'm going to using this tools myself in daily.
+🥰 A Markdown localizer will help you to wipe out these worries. And I'm going to use this tools myself in daily.
 
 ## Alternate
 
