@@ -31,3 +31,6 @@ cargo install md-localizer
 cd example_dir
 md-localizer localize-image -s example.md
 ```
+## Wishlist
+
+- [ ] Something like https://github.com/connertennery/Notion-to-Obsidian-Converter
